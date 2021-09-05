@@ -12,3 +12,7 @@ button{
 span{
     color:orangered;
 }
+span{
+    float: left;
+    font-size:30px;
+}
